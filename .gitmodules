@@ -1,0 +1,3 @@
+[submodule "src/glue"]
+	path = src/glue
+	url = git@github.com:kgalinsky/glue.git
